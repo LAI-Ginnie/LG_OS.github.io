@@ -1,5 +1,7 @@
 # LG_OS.github.io
 
+# https://lai-ginnie.github.io/LG_OS.github.io/
+
 # H1 Heading
 ## H2 heading
 
