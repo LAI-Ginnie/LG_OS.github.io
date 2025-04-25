@@ -1,6 +1,7 @@
 # LG_OS.github.io
 
 # https://lai-ginnie.github.io/LG_OS.github.io/
+# wait me construct out my website
 
 # H1 Heading
 ## H2 heading
@@ -9,3 +10,5 @@
 |----------|----------|----------|
 | Row 1    | Data 1   | Data 2   |
 | Row 2    | Data 3   | demo     |
+
+## wait me construct out my website
